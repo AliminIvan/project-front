@@ -1,0 +1,117 @@
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: center;
+    border: 1px solid black;
+    padding: 3px;
+    background: darkgoldenrod;
+}
+
+hr {
+    border-color: black;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+#new_input_name{
+    position: relative;
+    left: 47%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+#new_input_title{
+    position: relative;
+    left: 50.5%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+#new_input_race{
+    position: relative;
+    left: 45.9%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+#selectList{
+    position: relative;
+    left: 47%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+#new_input_profession{
+    position: relative;
+    left: 46.5%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+#new_input_level{
+    position: relative;
+    left: 45.8%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+#new_input_birthday{
+    position: relative;
+    left: 46.6%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+#new_input_banned{
+    position: relative;
+    left: 45.3%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+}
+
+body {
+    background: chocolate;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.saveButton{
+    margin: 0 auto;
+    display: block;
+    background: darkgoldenrod;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.imgBtn{
+    background: darkgoldenrod;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.buttonStyle {
+    position: relative;
+    left: 1%;
+    transform: translate(-50%, 0);
+    background: darkgoldenrod;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+div{
+    text-align: center;
+}
+
+.countPerPageLabel{
+    position: relative;
+    left: 46%;
+    transform: translate(-50%, 0);
+}
+
+label{
+    position: relative;
+    left: 44%;
+    transform: translate(-50%, 0);
+}
